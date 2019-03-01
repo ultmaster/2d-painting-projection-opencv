@@ -1,0 +1,3 @@
+The idea is to project a 3D mesh with texture onto a 2D surface. I do this with OpenCV. The idea is very simple; you can look at the code for details.
+
+This code snippet looks more like a demo/toy, far from industrial standards... maybe...
